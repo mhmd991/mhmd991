@@ -15,10 +15,6 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmd991&show_icons=true&theme=radical)
 
-## 📌 Featured Projects
-- 🔗 [Project Name] - Brief description
-- 🔗 [Project Name] - Brief description
-
 ## 🎯 2026 Goals
 - [ ] Complete IBM Java Developer Certificate
 - [ ] Build 3 production-ready projects
