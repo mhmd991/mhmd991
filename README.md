@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Yanal 👋
 
-<!--
-**mhmd991/mhmd991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Currently learning Java, Spring Boot, and backend development
+- 🎓 Taking IBM Java Developer Professional Certificate on Coursera
+- 💼 Actively seeking Java Developer opportunities in Amman, Jordan
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mhmd991/)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Java, Python
+**Frameworks:** Spring Boot (learning)
+**Tools:** Git, Maven, MySQL
+**Currently Learning:** REST APIs, Microservices, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmd991&show_icons=true&theme=radical)
+
+## 📌 Featured Projects
+- 🔗 [Project Name] - Brief description
+- 🔗 [Project Name] - Brief description
+
+## 🎯 2026 Goals
+- [ ] Complete IBM Java Developer Certificate
+- [ ] Build 3 production-ready projects
+- [ ] Contribute to open source
+- [ ] Land my first Java Developer role
